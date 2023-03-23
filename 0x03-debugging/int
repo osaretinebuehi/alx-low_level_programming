@@ -1,0 +1,11 @@
+te loop incoming :(\n");
+ 13         /*
+ 14          *              while (i < 10)
+ 15         {
+ 16                 putchar(i);
+ 17         }
+ 18         */
+ 19         printf("Infinite loop avoided! \\o/\n");
+ 20
+ 21         return (0);
+i
